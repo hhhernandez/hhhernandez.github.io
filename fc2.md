@@ -4,15 +4,6 @@ title: Food Computer II
 permalink: /fc2/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I've been working on making a Food Computer 2 as seen on MIT's OpenAg initiative. Living in Abu Dhabi makes it difficult to source parts and materials that are needed for the build.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am documenting sources for parts and materials I have used during this build both from local and international sources. I hope that this provides assistance for those in need.

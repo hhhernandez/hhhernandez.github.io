@@ -17,7 +17,7 @@ title: In search of nuts, bolts, buzzers, blocks, and random stuff
 email: hhhernandez@me.com
 description: >- # this means to ignore newlines until "baseurl:"
  Boston <-> Abu Dhabi : Scientist / Food Security / Biotech / Research / Robotics / synBio / Entrepreneurship / Cubano - Better Living Through BioBased Chemistry
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hhhernandez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hhhernandez
 github_username:  hhhernandez
